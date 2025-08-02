@@ -1,2 +1,4 @@
 # Task-Management-App
-Using React Native , Tailwind.css
+“This project is a part of a hackathon run by 
+https://www.katomaran.com
+
